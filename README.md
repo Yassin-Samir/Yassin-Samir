@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **formik , mui ,jira and advanced nextjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yassin-Samir](https://github.com/Yassin-Samir)
+- 👨‍💻 All of my projects are available at [https://yassin-samir.vercel.app](https://yassin-samir.vercel.app)
 
 - 💬 Ask me about **reactjs**
 
